@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    
+}
+#main{
+    height: auto;
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#detail{
+    height: 500px;
+    width: 1000px;
+    background-color:black;
+    margin: auto;
+    color: white;
+}
+table{
+    float: left;
+    margin-top: 50px;
+}
+
+h4{
+    float: left;
+}
+img{
+    float: right;
+    width: 500px;
+    height: 500px;
+    color: white;
+
+}#next{
+    float: right;
+}
+#next a{
+    color: white;
+}
+a.hover{
+    color: yellow;
+    
+}
+#footer{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    height: 25px;
+    width: auto;
+    background-color: white;
+}
+#footer p{
+    padding-top: 5px;
+}
